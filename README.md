@@ -61,4 +61,4 @@ JSON
     Решение: Button <Commit new file> 
  
  20. Синхронизировать внешний и локальный репозиторий JSON
-    Решение: git pull
+    Решение: git pull  или git fetch; git merge
